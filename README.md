@@ -1,2 +1,2 @@
-# apihero-module-stub
-bootstrap repo for manufacturing apihero modules
+# apihero-module-mincer
+Mincer for ApiHero
